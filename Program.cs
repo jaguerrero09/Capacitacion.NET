@@ -25,7 +25,7 @@ namespace CapaCliente
                 Console.WriteLine("Opcion 3 Baja de cliente");
                 Console.WriteLine("Opcion 4 Busqueda de cliente");
                 Console.WriteLine("Opcion 5 Mostrar todos los cliente");
-                Console.WriteLine("Opcion 0 Salir");
+                Console.WriteLine("Opcion 0 Cerrar");
                 Console.Write("Elija una opcion: ");
 
                 if (int.TryParse(Console.ReadLine(), out opcion))
