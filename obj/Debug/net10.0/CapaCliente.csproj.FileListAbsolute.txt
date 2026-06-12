@@ -1,0 +1,14 @@
+D:\proyecto\aplicacion_net\capa\CapaCliente\bin\Debug\net10.0\CapaCliente.exe
+D:\proyecto\aplicacion_net\capa\CapaCliente\bin\Debug\net10.0\CapaCliente.deps.json
+D:\proyecto\aplicacion_net\capa\CapaCliente\bin\Debug\net10.0\CapaCliente.runtimeconfig.json
+D:\proyecto\aplicacion_net\capa\CapaCliente\bin\Debug\net10.0\CapaCliente.dll
+D:\proyecto\aplicacion_net\capa\CapaCliente\bin\Debug\net10.0\CapaCliente.pdb
+D:\proyecto\aplicacion_net\capa\CapaCliente\obj\Debug\net10.0\CapaCliente.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyecto\aplicacion_net\capa\CapaCliente\obj\Debug\net10.0\CapaCliente.AssemblyInfoInputs.cache
+D:\proyecto\aplicacion_net\capa\CapaCliente\obj\Debug\net10.0\CapaCliente.AssemblyInfo.cs
+D:\proyecto\aplicacion_net\capa\CapaCliente\obj\Debug\net10.0\CapaCliente.csproj.CoreCompileInputs.cache
+D:\proyecto\aplicacion_net\capa\CapaCliente\obj\Debug\net10.0\CapaCliente.dll
+D:\proyecto\aplicacion_net\capa\CapaCliente\obj\Debug\net10.0\refint\CapaCliente.dll
+D:\proyecto\aplicacion_net\capa\CapaCliente\obj\Debug\net10.0\CapaCliente.pdb
+D:\proyecto\aplicacion_net\capa\CapaCliente\obj\Debug\net10.0\CapaCliente.genruntimeconfig.cache
+D:\proyecto\aplicacion_net\capa\CapaCliente\obj\Debug\net10.0\ref\CapaCliente.dll
